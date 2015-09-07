@@ -1,14 +1,12 @@
-# [stack.gl/packages](http://stack.gl/packages/)
-
-This is where we keep all of our packages' documentation for safe keeping and discoverability, both inside the [stackgl organisation](https://github.com/stackgl) and out.
+This is where we keep all of our packages' documentation for safe keeping and discoverability.
 
 This branch is responsible for downloading data from the GitHub API using [ecosystem-docs](https://github.com/hughsk/ecosystem-docs), transforming it into a nice format and presenting it on the frontend.
 
-The built output can be found on the [gh-pages branch](https://github.com/stackgl/packages/tree/gh-pages) of this repository.
+The built output can be found on the [gh-pages branch](https://github.com/nickdesaulniers/packages/tree/gh-pages) of this repository.
 
 ## Adding a package
 
-Simply add your package's GitHub repository to [the list in the wiki](https://github.com/stackgl/packages/wiki/Packages).
+Simply add your package's GitHub repository to [the list in the wiki](https://github.com/nickdesaulniers/packages/wiki/Packages).
 
 ## Build your own list
 
