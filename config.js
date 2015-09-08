@@ -2,7 +2,7 @@ const React = require('react')
 
 // URL to download the wiki packages list from
 exports.wiki = 'https://raw.githubusercontent.com/wiki/nickdesaulniers/packages/Packages.md'
-exports.home = 'https://github.com/nickdesaulniers/packages'
+exports.home = 'http://nickdesaulniers.github.io/packages/'
 
 // JSX for logo, to be placed at the top of the sidebar
 exports.logo = function () {
